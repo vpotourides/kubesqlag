@@ -24,5 +24,5 @@ This combination can be run as services on the operating system.
 
 ## Configure Highly Available HAProxy with Keepalived on Ubuntu 20.04
 
-To configure a high-availability cluster on the Ubuntu 20.04 virtual machine, I use the description of the steps from [here](https://kifarunix.com/configure-highly-available-haproxy-with-keepalived-on-ubuntu-20-04/) and from [here](https://github.com/kubernetes/kubeadm/blob/master/docs/ha-considerations.md#bootstrap-the-cluster).
+To configure a high-availability cluster as services on the operating system on the Ubuntu 20.04 virtual machine, I use the description of the steps from [here](https://kifarunix.com/configure-highly-available-haproxy-with-keepalived-on-ubuntu-20-04/) and from [here](https://github.com/kubernetes/kubeadm/blob/master/docs/ha-considerations.md#bootstrap-the-cluster).
 
