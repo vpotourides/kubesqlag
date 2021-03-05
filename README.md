@@ -14,3 +14,6 @@ Note that, if `${APISERVER_DEST_PORT}` has been configured to a value different 
 ```
 # kubeadm init --control-plane-endpoint vip.mycluster.local:8443 [additional arguments ...]
 ```
+## Configure Highly Available HAProxy with Keepalived on Ubuntu 20.04
+
+To configure a Hight Available cluster i am using this (https://kifarunix.com/configure-highly-available-haproxy-with-keepalived-on-ubuntu-20-04/) and this.
