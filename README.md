@@ -16,5 +16,5 @@ Note that, if `${APISERVER_DEST_PORT}` has been configured to a value different 
 ```
 ## Configure Highly Available HAProxy with Keepalived on Ubuntu 20.04
 
-To configure a Hight Available cluster i am using the steps descripted [here](https://kifarunix.com/configure-highly-available-haproxy-with-keepalived-on-ubuntu-20-04/) and for config files [here](https://github.com/kubernetes/kubeadm/blob/master/docs/ha-considerations.md#bootstrap-the-cluster).
+To configure a high-availability cluster on the Ubuntu 20.04 virtual machine, I use the description of the steps from [here](https://kifarunix.com/configure-highly-available-haproxy-with-keepalived-on-ubuntu-20-04/) and from [here](https://github.com/kubernetes/kubeadm/blob/master/docs/ha-considerations.md#bootstrap-the-cluster).
 
